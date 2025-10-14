@@ -8,6 +8,7 @@ import { useState} from 'react'
 
 const App = () => {
   sum(10,20);
+  
   console.log(data);
   return (
     <>
