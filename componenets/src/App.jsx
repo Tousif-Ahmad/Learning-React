@@ -3,7 +3,7 @@ import "./App.css";
 import Card from "./components/Card";
 // function square(desc1, desc2){
 //   return (
-//     <div className='square'>
+//     <div className='square'>  
 //       <h1>{desc1}</h1>
 //       <h2>{desc2}</h2>
 //     </div>
@@ -34,8 +34,6 @@ const App = () => {
         <Card title="card 3" desc="hskjfhiuefhiufs"/>
         <Card title="card 4" desc="tyeruithudfjghdfjkg"/>
       </div>
-
-
     </>
   );
 };
